@@ -1,6 +1,6 @@
 # Quick TODO App
 
-CLI app developed primarily using Claude AI (pretty impressive ngl). It got all the details I gave it but I ran out of prompts too soon.
+CLI app developed primarily using [Claude AI](https://claude.ai/) (pretty impressive ngl). It got all the details I gave it but I ran out of prompts too soon.
 
 I added the edit command, improved some messages and commands and in-app help.
 
